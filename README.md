@@ -1,4 +1,4 @@
-🎲 Board Game Popularity & Rating Analysis
+# 🎲 Board Game Popularity & Rating Analysis
 
 📌 Project Overview
 This project performs an end-to-end data analysis of the board game industry using the BoardGameGeek dataset. The goal is to identify the key factors that influence a board game’s popularity, ratings, complexity, and long-term success through structured SQL analysis and Python-based exploration.
